@@ -1,0 +1,6 @@
+com\resume\analyzer\AnalyzerApplication.class
+com\resume\analyzer\service\GeminiService.class
+com\resume\analyzer\entity\ResumeAnalysis.class
+com\resume\analyzer\controller\ResumeController.class
+com\resume\analyzer\service\ResumeService.class
+com\resume\analyzer\repository\ResumeAnalysisRepository.class
